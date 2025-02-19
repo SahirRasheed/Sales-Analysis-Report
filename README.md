@@ -1,4 +1,5 @@
-# 📊 Sales Analysis Report - Power BI  
+# 📊  UX/UI Designed Modern Sales Analysis Report - Power BI 
+
 
 ## 🔥 Project Overview  
 This **Sales Analysis Report** provides valuable insights into **product sales performance** across various dimensions like **time, segment, country, and product categories**. The dataset includes **sales data and manager information**, helping in **inventory planning, business process optimization, and customer behavior analysis**.  
