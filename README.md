@@ -42,10 +42,10 @@ The report was built using **Power BI Desktop** with dataset that contains **Sal
 ✔️ **Measures for Conditional formating by fields**  
 
 ## 📁 Repository Content  
-- 📄 **Sales Analysis Report.pbix** → Power BI report file
-- 📂 **Dataset/** → Contains the sales dataset used for analysis
-- 🎨 **Report Design.pptx** → PowerPoint file containing the custom report design    
-- 📊 **Screenshots/** → Preview images of the dashboard  
+- 📄 **[PBIX File](./Sales%20Analysis%20Report.pbix)** → Power BI report file
+- 📂 ***[Dataset](./Sales%20Data.xlsx)**: Netflix dataset in Excel format/** → Contains the sales dataset used for analysis
+- 🎨 **[Backgrounds](./Background.zip)** → PowerPoint file containing the custom report design    
+- 📊 **[Screenshots](./screenshot%201/)** → Preview images of the dashboard  
  
 
 ## 📌 Report Preview  
