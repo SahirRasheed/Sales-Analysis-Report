@@ -44,7 +44,7 @@ The report was built using **Power BI Desktop** with dataset that contains **Sal
 
 ## 📁 Repository Content  
 - 📄 **[PBIX File](./Sales%20Analysis%20Report.pbix)** → Power BI report file
-- 📂 ***[Dataset](./Sales%20Data.xlsx)** → Contains the sales dataset used for analysis
+- 📂 **[Dataset](./Sales%20Data.xlsx)** → Contains the sales dataset used for analysis
 - 🎨 **[Backgrounds](./Background.zip)** → PowerPoint file containing the custom report design    
 - 📊 **[Screenshots](./screenshot%201/)** → Preview images of the dashboard  
  
